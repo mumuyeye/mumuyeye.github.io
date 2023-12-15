@@ -70,7 +70,7 @@ Tingyu Luo, **Boheng Li**, Jiahao Zhou, Qingxiang Meng
 
 <!-- ## 🤖️ AI Security, Privacy & Intellectual Property (IP) Protection -->
 - [TraceEvader: Making DeepFakes More Untraceable via Evading the Forgery Model Attribution]()   
-Mengjie Wu, Jingui Ma, Run Wang, Sidan Zhang, **Boheng Li**, Chenhao Lin, Liming Fang, Lina Wang
+Mengjie Wu, Jingui Ma, Run Wang, Sidan Zhang, **Boheng Li**, Chenhao Lin, Liming Fang, Lina Wang   
 *The 38th Annual AAAI Conference on Artificial Intelligence (AAAI), 2024*
 
 - [What can Discriminator do? Towards Box-free Ownership Verification of Generative Adversarial Networks](https://arxiv.org/abs/2307.15860)   
