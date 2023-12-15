@@ -30,6 +30,8 @@ I have won the First Class Scholarship of WHU 2 times (5% school-wide), the HUAN
 <!-- My curriculum vitae can be downloaded [here (in English)](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/Boheng_Li_s_CV.pdf).  -->
 
 # 🔥 News
+- *2023.12*: One paper is accepted by AAAI 2024.
+- *2023.10*: Awarded with National Scholarship 2023.
 - *2023.08*: Invited as a reviewer by ACM TOMM.
 - *2023.08*: One paper is accepted by ICCVW UnCV 2023.
 - *2023.07*: One paper is accepted by ACM MM 2023.
@@ -67,6 +69,10 @@ Tingyu Luo, **Boheng Li**, Jiahao Zhou, Qingxiang Meng
 *The 29th International Conference on Geoinformatics (CPGIS), 2022* -->
 
 <!-- ## 🤖️ AI Security, Privacy & Intellectual Property (IP) Protection -->
+- [TraceEvader: Making DeepFakes More Untraceable via Evading the Forgery Model Attribution]()   
+Mengjie Wu, Jingui Ma, Run Wang, Sidan Zhang, **Boheng Li**, Chenhao Lin, Liming Fang, Lina Wang
+*The 38th Annual AAAI Conference on Artificial Intelligence (AAAI), 2024*
+
 - [What can Discriminator do? Towards Box-free Ownership Verification of Generative Adversarial Networks](https://arxiv.org/abs/2307.15860)   
 Ziheng Huang$^\dagger$, **Boheng Li**$^\dagger$, Yan Cai, Run Wang, Shangwei Guo, Liming Fang, Jing Chen, Lina Wang   
 *International Conference on Computer Vision (ICCV), 2023*
@@ -80,7 +86,7 @@ Dongyu Yao, **Boheng Li**$^\*$
 *ICCV Workshop on Uncertainty Quantification for Computer Vision (UnCV), 2023*
 
 
-Other 2 papers regarding IP protection of DL have currently been submitted to CCF-A tier conferences.
+<!-- Other 2 papers regarding IP protection of DL have currently been submitted to CCF-A tier conferences. -->
 <!-- ## 🖨️ Preprints & In Submission -->
 
 
@@ -95,6 +101,7 @@ Other 2 papers regarding IP protection of DL have currently been submitted to CC
 - **First Place in Second Prize.** The 2018 National Olympic in Informatics, Sichuan Provincial Competition (NOIp'18). *2018.11*
 
 # 🎖 Scholarships and Honors
+- *2023.10* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
 - *2023.02* **Huawei Scholarship** (Award Rate: 54/59774=0.1%) *Wuhan University & Huawei Technologies Co., Ltd.*
 - *2022.10* **Pacemaker to Merit Student** (Award Rate: 60/59774=0.1%) *Wuhan University*
 - *2022.10* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
