@@ -32,6 +32,7 @@ I have won the First Class Scholarship of WHU 2 times (5% school-wide), the HUAN
 # 🔥 News
 - *2024.02*: One paper is accepted by CVPR 2024.
 - *2024.02*: Our team won the Outstanding Prize of Innova University Student Innovation Achievement Award.
+- *2024.01*: Invited as a reviewer for ACM MM 2024.
 - *2023.12*: One paper is accepted by AAAI 2024.
 - *2023.10*: Awarded with National Scholarship 2023.
 - *2023.08*: Invited as a reviewer by ACM TOMM.
