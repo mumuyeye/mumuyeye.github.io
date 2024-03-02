@@ -73,7 +73,7 @@ Tingyu Luo, **Boheng Li**, Jiahao Zhou, Qingxiang Meng
 
 <!-- ## 🤖️ AI Security, Privacy & Intellectual Property (IP) Protection -->
 - [Nearest Is Not Dearest: Towards Practical Defense against Quantization-conditioned Backdoor Attacks]()   
-**Boheng Li**, Yishuo Cai, Haowei Li, Feng Xue, Zhifeng Li, Yiming Li 
+**Boheng Li**, Yishuo Cai, Haowei Li, Feng Xue, Zhifeng Li, Yiming Li   
 *The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024 (To Appear)*
 
 - [TraceEvader: Making DeepFakes More Untraceable via Evading the Forgery Model Attribution]()   
