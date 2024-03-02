@@ -25,11 +25,13 @@ My research interest lies in Artificial Intelligence (AI) Security & Privacy, wh
 
 I have won the First Class Scholarship of WHU 2 times (5% school-wide), the HUANG Zhangren Scholarship (60 candidates per year in WHU), the Huawei Scholarship (54 candidates per year in WHU), the National Scholarship (0.2% national-wide), and was selected the Pacemaker to Merit Student of WHU (60 candidates per year in WHU). I was awarded 🏅️ the **Gold Reward** of [The 8th China International College Students 'Internet+' Innovation and Entrepreneurship Competition](https://cy.ncss.cn/), the highest and most valuable competition award for Chinese college students (national-wide, refer to [this link](https://news.eol.cn/yaowen/202103/t20210322_2087129.shtml)), as the co-founder of the team.
 
-🌟🌟 I'm currently actively seeking for Ph.D., Research Assistant, or internship positions related to Information Security or AI. I'm also open to any possible discussions or collaborate opportunities. If you're interested in working with me, don't hesitate to drop me an email! 
+🌟🌟 I'm open to any possible discussions or collaborate opportunities. If you're interested in working with me, don't hesitate to drop me an email! 
 
 <!-- My curriculum vitae can be downloaded [here (in English)](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/Boheng_Li_s_CV.pdf).  -->
 
 # 🔥 News
+- *2024.02*: One paper is accepted by CVPR 2024.
+- *2024.02*: Our team won the Outstanding Prize of Innova University Student Innovation Achievement Award.
 - *2023.12*: One paper is accepted by AAAI 2024.
 - *2023.10*: Awarded with National Scholarship 2023.
 - *2023.08*: Invited as a reviewer by ACM TOMM.
@@ -69,9 +71,13 @@ Tingyu Luo, **Boheng Li**, Jiahao Zhou, Qingxiang Meng
 *The 29th International Conference on Geoinformatics (CPGIS), 2022* -->
 
 <!-- ## 🤖️ AI Security, Privacy & Intellectual Property (IP) Protection -->
+- [Nearest Is Not Dearest: Towards Practical Defense against Quantization-conditioned Backdoor Attacks]()   
+**Boheng Li**, Yishuo Cai, Haowei Li, Feng Xue, Zhifeng Li, Yiming Li 
+*The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024 (To Appear)*
+
 - [TraceEvader: Making DeepFakes More Untraceable via Evading the Forgery Model Attribution]()   
 Mengjie Wu, Jingui Ma, Run Wang, Sidan Zhang, **Boheng Li**, Chenhao Lin, Liming Fang, Lina Wang   
-*The 38th Annual AAAI Conference on Artificial Intelligence (AAAI), 2024*
+*Annual AAAI Conference on Artificial Intelligence (AAAI), 2024*
 
 - [What can Discriminator do? Towards Box-free Ownership Verification of Generative Adversarial Networks](https://arxiv.org/abs/2307.15860)   
 Ziheng Huang$^\dagger$, **Boheng Li**$^\dagger$, Yan Cai, Run Wang, Shangwei Guo, Liming Fang, Jing Chen, Lina Wang   
