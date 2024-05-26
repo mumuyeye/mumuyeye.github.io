@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "个人简历——程子洋"
+title                    : "个人网页"
 description              : "21级网络空间安全专业本科生"
 repository               : "https://mumuyeye.github.io"
 google_scholar_stats_use_cdn : true
