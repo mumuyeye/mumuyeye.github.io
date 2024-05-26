@@ -3,11 +3,11 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
+- title: "Education Background"
+  url: "/#-education-background"
 
-  - title: "Publications"
-    url: "/#-publications"
+- title: "Research Experience"
+  url: "/#-research-experience"
 
   - title: "Competition Awards"
     url: "/#-competition-awards"
@@ -18,8 +18,11 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Activities"
-    url: "/#-activities"
+  #- title: "Activities"
+  #  url: "/#-activities"
+
+  # - title: "Useful Links"
+  #   url: "/#-useful-links"
 
   # - title: "Internships"
   #   url: "/#-internships"

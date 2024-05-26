@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -16,51 +15,175 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+大家好！
 
-Hi there 👋👋 !
+我是 **程子洋**，目前就读于 [武汉大学](https://www.whu.edu.cn/) 网络空间安全专业本科。
 
-My name is Boheng Li (李勃衡), I'm currently a junior undergraduate student at the [School of Cyber Science and Engineering (SCSE)](http://cse.whu.edu.cn/index.htm), [Wuhan University (WHU)](https://www.whu.edu.cn/), pursuing a B.E. degree in Information Security. I graduated from [Chengdu Foreign Languages School (CFLS)](http://www.cfls.net.cn/), where I spent 1 year learning Olympic in Informatics (OI).
+我对网络安全和人工智能充满热情，自入学以来，积极参与各类科研项目和学术竞赛。在学术方面，我的GPA为3.86，曾获得雷军计算机奖学金和多项校内外奖项。在科研方面，我参与并主导了多个项目，包括基于CLIP的推荐系统、高层建筑智能监测系统等，这些项目不仅提升了我的专业技能，也让我积累了丰富的实践经验。
 
-My research interest lies in Artificial Intelligence (AI) Security & Privacy, where I explore the weakness of Deep Learning models in their lifecycles (e.g., Adversarial Attack, Backdoor Attack) and their countermeasures. I also made efforts on turning these weaknesses into good use, applying on privacy protection and Intellectual Property (IP) protection of deep learning models. It's a fortune to be supervised by Prof. [Run Wang](http://wangrun.github.io/) during my study on AI. During my undergraduate study, I also enjoyed a great time conducting research on  Geoinformatics and Remote Sensing, in which I worked closely with my teammates [Jiahao Zhou](https://ddakun.github.io/) and [Sixing Lin](https://defaultlin.cn/).
+我熟练掌握C++、Python等编程语言，熟悉深度学习框架如PyTorch，能够独立完成从数据处理到模型训练的整个流程。同时，我也积极参与各种学术交流活动，与来自不同领域的专家学者进行讨论和合作，不断拓宽自己的知识面。
 
-I have won the First Class Scholarship of WHU 2 times (5% school-wide), the HUANG Zhangren Scholarship (60 candidates per year in WHU), the Huawei Scholarship (54 candidates per year in WHU), the National Scholarship (0.2% national-wide), and was selected the Pacemaker to Merit Student of WHU (60 candidates per year in WHU). I was awarded 🏅️ the **Gold Reward** of [The 8th China International College Students 'Internet+' Innovation and Entrepreneurship Competition](https://cy.ncss.cn/), the highest and most valuable competition award for Chinese college students (national-wide, refer to [this link](https://news.eol.cn/yaowen/202103/t20210322_2087129.shtml)), as the co-founder of the team.
+我希望能与更多对网络安全和人工智能感兴趣的同仁交流合作，共同探讨前沿技术的发展。如果您对我的研究工作感兴趣，或者有合作意向，请随时联系我。
 
-🌟🌟 I'm open to any possible discussions or collaborate opportunities. If you're interested in working with me, don't hesitate to drop me an email! 
+# 🎓 Education Background
 
-<!-- My curriculum vitae can be downloaded [here (in English)](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/Boheng_Li_s_CV.pdf).  -->
+- **武汉大学**
+  - **地点:** 武汉
+  - **专业:** 网络空间安全
+  - **学位:** 本科
+  - **入学时间:** 2021.9
+  - **GPA:** 3.86/4.0
+  - **加权平均分:** 90.55/100
+  - **排名:**
 
-# 🔥 News
-- *2024.02*: One paper is accepted by CVPR 2024.
-- *2024.02*: Our team won the Outstanding Prize of Innova University Student Innovation Achievement Award.
-- *2024.01*: Invited as a reviewer for ACM MM 2024.
-- *2023.12*: One paper is accepted by AAAI 2024.
-- *2023.10*: Awarded with National Scholarship 2023.
-- *2023.08*: Invited as a reviewer by ACM TOMM.
-- *2023.08*: One paper is accepted by ICCVW UnCV 2023.
-- *2023.07*: One paper is accepted by ACM MM 2023.
-- *2023.07*: One paper is accepted by ICCV 2023.
-- *2023.06*: Invited as a reviewer by ACM MM.
-- *2023.02*: I was awarded the Huawei Scholarship (54 candidates per year in WHU) by Wuhan University & Huawei Technologies Co., Ltd.
-- *2022.11*: Our team "AntiE" won the **Gold Reward** (national highest award, award rate less than 0.01%) of the 8th China International College Students 'Internet+' Innovation and Entrepreneurship Competition (Chinese: 中国国际“互联网+”大学生创新创业大赛), it's a great honor! Congratulations to my teammates Jiahao Zhou, Tingyu Luo, Xinyue Zhang, Sixing Lin, Tong Zong, Zhuoyuan Wu, Chang Lu, Jie Xiao, Yiqing Li, Hanrui Yao, Weijing Li, and Fan Wang. Thanks to our team's former members Xin Cao and Chong Hu, our advisers Qingxiang Meng, Xiaoliang Meng, Run Wang and Linqing Liu, thanks to Chufeng Wu, Prof. Jun Qian, Prof. Huying Zhang, Mr. Qilin Sun who helped us a lot! Thanks to my mom and dad, thanks to everyone!
-<!-- - *2022.10*: Our team "AntiE" enters the national finals of the 8th China International College Students "Internet+" Innovation and Entrepreneurship Competition (Chinese: 中国国际“互联网+”大学生创新创业大赛), see you in Chongqing! -->
-- *2022.10*: I won the National Scholarship (0.2% national-wide), and was selected the Pacemaker to Merit Student of WHU (Award Rate: 60/59774=0.1%).
-<!-- - *2022.10*: I ranked 1/157 in the 2022 Comprehensive Assessment of the SCSE with a full score in practice and innovation ability (F3). My total score surpasses the second place by 11%. -->
+    - 综合素质测评排名: 1/132 (0.7%)
+    - 平均学分绩点排名: 15/132 (11.3%)
+  - **语言能力:**
 
-<!-- - *2022.08*: Our team won the Outstanding Winner Award (highest award) in the 2022 National College Student Surveying and Mapping Discipline Innovation and Entrepreneurship Intelligent Competition Development and Design Competition. Congrats to my teammates Jiahao Zhou, Sixing Lin, and Tingyu Luo.
-- *2022.08*: Our team "AntiE" won the Golden Prize in the 8th China International College Students "Internet+" Innovation and Entrepreneurship Competition, Hubei Province Division (Chinese: 中国国际“互联网+”大学生创新创业大赛), and successfully entered the National Finals. -->
+    - 已通过 CET4 和 CET6，CET4 成绩为 662
+    - 具备良好的英语文献阅读和写作能力
+  - **核心课程得分:**
 
-<!-- - *2022.08*: Our team won the First Prize in the 15th Chinese Collegiate Computing Competition National Finals (4C'2022). Congratulations to my teammates Jiahao Zhou and Sixing Lin.
-- *2022.08*: Our team "AntiE" won the Outstanding Winner Award in the 14th Shenzhen Innovation and Entrepreneurship Competition.
-- *2022.07*: This semester ends with a GPA of 4.0/4.0 and an average score of 95.47/100.
-- *2022.07*: I won the Second Prize in the Lanqiao Cup national finals.
-- *2022.07*: Our team "AntiE" (Chinese: 安急易) won the Golden Prize in the "Challenge Cup" Innovation and Entrepreneurship Competition (Chinese: “挑战杯”中国大学生创业计划竞赛), Hubei Province Division, and successfully entered the National Competition.
-- *2022.06*: I am awarded as "social activity activist" (Chinese: 社会活动积极分子) by Wuhan University.
-- *2022.06*: Our paper "Optimized Design Method for Satellite Constellation Configuration Based on Real-time Coverage Area Evaluation" is accepted by Geoinformatics 2022. \[[pdf](https://arxiv.org/pdf/2209.09131.pdf)\]
-- *2022.06*: Our paper "Comprehensive Evaluation of Emergency Shelters in Wuhan City Based on GIS" is accepted by Geoinformatics 2022. \[[pdf](https://arxiv.org/pdf/2209.07687.pdf)\] -->
+    - 概率论与数理统计 (96)
+    - 高等数学 (93)
+    - 数据结构 (93, 93)
+    - 算法设计与分析 (90)
+    - 机器学习 (95, 95)
+    - 自然语言处理 (95)
+    - 舆情分析 (93)
+    - 社会计算 (91)
+    - 数据库系统 (94)
+  - **编程能力:**
 
-# 📝 Publications 
+    - 熟练掌握 C++ 和 Python
+    - 熟悉算法与数据结构，抽象能力强，代码风格良好
+    - 熟练掌握 PyTorch、Numpy、Pandas，熟悉各类深度学习模型
+  - **开发工具:**
 
+    - VS Code, PyCharm, Jupyter Notebook, LaTeX (Overleaf), Git
+  - **在校荣誉:**
+
+    - 武汉大学雷军计算机奖学金 (￥10000，全校共60人)
+    - 武汉大学甲等奖学金（5%）
+    - 武汉大学三好学生
+    - 武汉大学青年志愿者优秀个人奖
+
+# 🧪 Research Experience
+
+## **CLIP4Rec - 基于 CLIP 的通用推荐框架研究**
+
+- **时间:** 2023.9 - 2024.7
+- **角色:** 推荐系统，多模态 (个人)
+- **摘要:**
+  - 识别出当前推荐系统以 ID 为主流，难以跨域迁移的问题。
+  - 提出了基于图像的推荐关系数据集和通用数据表示方式，通过五个核心步骤设计和优化模型。
+  - 初步计划投稿 NeurIPS 2024，但在投稿前决定改进后投稿 AAAI 2024。
+
+## **AeroSentry - 高层建筑智能监测系统**
+
+- **时间:** 2023.1 - 2024.5
+- **角色:** Geo AI，计算机视觉 (团队)
+- **摘要:**
+  - 解决现有高层建筑监测系统应用范围小、性能不理想的问题。
+  - 引入轻量化的语义分割网络和知识蒸馏技术，提高检测准确性。
+  - 项目成功申请为省级大学生创新创业项目，并申请了一项国家发明专利和两项软件著作权。
+  - 带队参加第17届中国大学生计算机设计大赛，中南地区赛人工智能应用组第一名。
+
+## **FuzzLLM - 一种主动发现大型语言模型中越狱漏洞的新型通用模糊测试框架**
+
+- **时间:** 2023.6 - 2023.11
+- **角色:** 大语言模型，人工智能安全 (团队)
+- **摘要:**
+  - 解决 LLMs 引入的安全风险，尤其是越狱漏洞问题。
+  - 提出 FuzzLLM，通过自动生成大量随机但结构化的输入提示来测试模型。
+  - 与 EasyJailbreak 框架合作，申请了一项国家发明专利和一项软件著作权。
+  - 参加第17届中国大学生计算机设计大赛，中南地区赛一等奖。
+
+## **UnVC - 面向生成式伪造语音欺骗的鲁棒主动防御系统**
+
+- **时间:** 2024.1 - 2024.5
+- **角色:** 多媒体信息内容安全 (团队)
+- **摘要:**
+  - 解决零样本语音转换工具的普及带来的伪造语音信息泛滥问题。
+  - 提出声纹匿名化和声学特征破坏技术，实现对合法说话人语音的保护。
+  - 研究对抗攻击技术的鲁棒性，确保在传输过程中稳定。
+  - 参加2024年全国大学生信息安全竞赛。
+
+## **DtFormer - 基于自训练范式的恶劣天气场景鲁棒语义分割**
+
+- **时间:** 2023.8 - 2024.1
+- **角色:** 计算机视觉，域适应 (团队)
+- **摘要:**
+  - 解决语义分割模型在恶劣天气下表现不佳的问题。
+  - 采用多层次教师自训练方法，逐步完成雾场景的语义分割。
+  - 项目完成后，获得第17届中国大学生计算机设计大赛中南地区赛三等奖。
+
+## **话题-观点图谱（数据集构建和模型微调）**
+
+- **时间:** 2023.9 - 2023.12
+- **角色:** 自然语言处理，舆情分析 (团队)
+- **摘要:**
+  - 收集并分析推特及主流新闻平台上的内容，构建话题-观点图谱。
+  - 采用级联策略识别文本中的实体关系三元组。
+  - 使用 Flask 和 D3.js 构建动态话题-观点知识图谱。
+  - 被评为 Best Project（课程得分: 93/100）。
+
+## **从“堆盒子”到动态规划**
+
+- **时间:** 2022.1 - 2022.05
+- **角色:** 算法教学，算法可视化 (团队)
+- **摘要:**
+  - 针对算法学习的抽象性障碍，采用可视化方法。
+  - 使用 Python 的 Manim 引擎制作数学动画，编写了3000余行代码。
+  - 在学生和教育者中获得良好反馈，推广应用于各级教育。
+
+# 🏆 Competition Awards
+
+- **中国大学生计算机设计大赛：已晋级/国赛ing** *国家级* 2024
+- **“蓝桥杯”数字科技创新赛：已晋级/国赛ing** *国家级* 2024
+- **全国大学生数学竞赛：二等奖** *国家级* 2023
+- **“华中杯”大学生数学建模挑战赛：特等奖 (2 out of 2030 teams)** *省部级* 2023
+- **中国大学生计算机设计大赛 (中南地区赛)：一等奖 (第一名)** *省部级* 2024
+- **中国大学生计算机设计大赛 (中南地区赛)：一等奖** *省部级* 2024
+- **中国大学生计算机设计大赛 (中南地区赛)：二等奖** *省部级* 2024
+- **中国大学生计算机设计大赛 (中南地区赛)：三等奖** *省部级* 2024
+- **中国大学生计算机设计大赛 (中南地区赛)：三等奖** *省部级* 2024
+- **中国大学生计算机设计大赛 (中南地区赛)：三等奖** *省部级* 2023
+- **“蓝桥杯”数字科技创新赛 (全国选拔赛)：一等奖** *省部级* 2024
+- **“蓝桥杯”软件赛道 C++ 程序设计赛 (湖北赛区)：三等奖** *省部级* 2023
+- **“蓝桥杯”软件赛道 Python 程序设计赛 (湖北赛区)：三等奖** *省部级* 2024
+
+# 🎖 Scholarships and Honors
+
+- *2023.10* **雷军计算机本科生奖学金** (获奖率: 20/1213=1.6%) *武汉大学&小米科技有限公司*
+- *2023.10* **三好学生** (获奖率: 全校10%) *武汉大学*
+- *2023.10* **武汉大学甲等学业奖学金** (获奖率: 全校5%) *武汉大学*
+- *2023.9* **武汉大学青年志愿者优秀个人奖** *武汉大学*
+- 2024.1 **武汉大学国家网络安全学院科创先进个人** 武汉大学国家网络安全学院
+- 2024.9 **武汉大学优秀共青团员 武汉大学**
+
+# 📖 Educations
+
+- *2021.9 - *, 本科生, 武汉大学国家网络安全学院  专业: 网络空间安全.
+
+<!--## 📚 Textbooks
+
+At present, I have no time to upload all the textbooks. If you need more, please send me an email (of course you need attach your grade, class and name).
+
+- *[高等数学（下）-武汉大学](https://github.com/1NormalGuy/1normalguy.github.io/raw/main/docs\高等数学(上).pdf)*
+-->
+
+<!--
+- 计算机设计大赛经验分享, Spring 2023. \[[Slides](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/ComputerDeignCompetition.pdf)\]
+
+- 竞赛经验漫谈, Fall 2022. \[[Slides](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/Competitions-2022Fall.pdf)\]
+
+- 新老生经验交流会, Fall 2021. \[[Slides and Other Materials](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/ExperienceSharing2021Winter.zip)\]
+-->
+
+<!--
 $^\dagger$: equal contribution, $^*$: corresponding author
+-->
 
 <!-- ## 🛰️ Geoinformatics & Remote Sensing
 - [Optimized Design Method for Satellite Constellation Configuration Based on Real-time Coverage Area Evaluation](https://ieeexplore.ieee.org/document/9963835)   
@@ -72,14 +195,8 @@ Tingyu Luo, **Boheng Li**, Jiahao Zhou, Qingxiang Meng
 *The 29th International Conference on Geoinformatics (CPGIS), 2022* -->
 
 <!-- ## 🤖️ AI Security, Privacy & Intellectual Property (IP) Protection -->
-- [Nearest Is Not Dearest: Towards Practical Defense against Quantization-conditioned Backdoor Attacks]()   
-**Boheng Li**, Yishuo Cai, Haowei Li, Feng Xue, Zhifeng Li, Yiming Li   
-*The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024 (To Appear)*
 
-- [TraceEvader: Making DeepFakes More Untraceable via Evading the Forgery Model Attribution]()   
-Mengjie Wu, Jingui Ma, Run Wang, Sidan Zhang, **Boheng Li**, Chenhao Lin, Liming Fang, Lina Wang   
-*Annual AAAI Conference on Artificial Intelligence (AAAI), 2024*
-
+<!--
 - [What can Discriminator do? Towards Box-free Ownership Verification of Generative Adversarial Networks](https://arxiv.org/abs/2307.15860)   
 Ziheng Huang$^\dagger$, **Boheng Li**$^\dagger$, Yan Cai, Run Wang, Shangwei Guo, Liming Fang, Jing Chen, Lina Wang   
 *International Conference on Computer Vision (ICCV), 2023*
@@ -93,56 +210,9 @@ Dongyu Yao, **Boheng Li**$^\*$
 *ICCV Workshop on Uncertainty Quantification for Computer Vision (UnCV), 2023*
 
 
-<!-- Other 2 papers regarding IP protection of DL have currently been submitted to CCF-A tier conferences. -->
-<!-- ## 🖨️ Preprints & In Submission -->
-
-
-# 🏆 Competition Awards
-- 🏅️ **Gold Reward.** The 8th China International College Students "Internet+" Innovation and Entrepreneurship Competition. *2022.11*
-- **First Prize.** The 2022 China Mobile Creator Marathon "OnePoint" Special Competition on Spatio-temporal Information *2022.11*
-- **First Prize.** The 15th Chinese Collegiate Computing Competition National Finals (4C'2022). *2022.09*
-- **Golden Prize of Hubei Province.** The 2022 "Challenge Cup" Innovation and Entrepreneurship Competition. *2022.08*
-- **Outstanding Winner Award.** The 2022 National College Student Surveying and Mapping Discipline Innovation and Entrepreneurship Intelligent Competition Development and Design Competition. *2022.08*
-- **Second Prize.** The Lanqiao Cup Competition National Finals. *2022.08*
-- **Outstanding Winner Award.** The 14th Shenzhen Innovation and Entrepreneurship Competition. *2022.07*
-- **First Place in Second Prize.** The 2018 National Olympic in Informatics, Sichuan Provincial Competition (NOIp'18). *2018.11*
-
-# 🎖 Scholarships and Honors
-- *2023.10* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
-- *2023.02* **Huawei Scholarship** (Award Rate: 54/59774=0.1%) *Wuhan University & Huawei Technologies Co., Ltd.*
-- *2022.10* **Pacemaker to Merit Student** (Award Rate: 60/59774=0.1%) *Wuhan University*
-- *2022.10* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
-- *2022.10* **First Class Scholarship of WHU** (Award Rate: 5% school-wide) *Wuhan University* 
-- *2022.06* **Social Activist** (Award Rate: 1584/59774=2.6%) *Wuhan University*
-- *2021.10* **Merit Student**  (Award Rate: 10% school-wide) *Wuhan University* 
-- *2021.10* **HUANG Zhangren Scholarship** (Award Rate: 60/59774=0.1%, 60 candidates per year in WHU) *Wuhan University* 
-- *2021.10* **First Class Scholarship of WHU** (Award Rate: 5% school-wide) *Wuhan University* 
-- *2021.06* **Excellent Student Cadre** (Award Rate: 924/59774=1.5%) *Wuhan University*
-
-# 📖 Educations
-- *2020.09 - Now*, Undergraduate, School of Cyber Science and Engineering, Wuhan University, China. Majoring in Information Security. 
-- *2017.09 - 2020.06*, Senior Middle School, Class of Olympic in Informatics, Chengdu Foreign Languages School, China.
-- *2014.09 - 2017.06*, Junior Middle School, Chengdu Foreign Languages School, China.
-
-# 🎡 Activities
-
-## Academic Services
-- Reviewer, ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2023.
-- Reviewer, ACM Multimedia (MM), 2023.
-- Sub-Reviewer, ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), 2023.
-- Sub-Reviewer, AAAI Conference on Artificial Intelligence (AAAI), 2023.
-
-## Teaching Experiences
-- Teaching Assistant, Artificial Intelligence (AI), Undergrads, SCSE, WHU, Fall 2022. \[[理论复习课PPT](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/AI2022Review-BohengLi.pdf)\] \[[2022 Fall期末考试试卷PDF](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/AIFinalExam-Fall2022.pdf)\]
-- Teaching Assistant, Big Data Analysis, Undergrads, SCSE, WHU, Fall 2023.
-
-## Invited talks (Selected)
-
-- 计算机设计大赛经验分享, Spring 2023. \[[Slides](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/ComputerDeignCompetition.pdf)\]
-
-- 竞赛经验漫谈, Fall 2022. \[[Slides](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/Competitions-2022Fall.pdf)\]
-
-- 新老生经验交流会, Fall 2021. \[[Slides and Other Materials](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/ExperienceSharing2021Winter.zip)\]
+Other 2 papers regarding IP protection of DL have currently been submitted to CCF-A tier conferences.
+<!-- ## 🖨️ Preprints & In Submission
+-->
 
 <!-- # 💻 Internships
 To be updated. -->
