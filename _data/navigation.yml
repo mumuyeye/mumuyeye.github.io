@@ -2,7 +2,7 @@ main:
   - title: "About Me"
     url: "/#about-me"
   - title: "News"
-    url: "/#-News"
+    url: "/#-news"
   - title: "Education Background"
     url: "/#-education-background"
   - title: "Research Experience"
