@@ -37,6 +37,8 @@ redirect_from:
   - **开发工具:**VS Code, PyCharm, Jupyter Notebook, LaTeX (Overleaf), Git
   - **在校荣誉:**武汉大学雷军计算机奖学金 (￥10000，全校共60人)、武汉大学甲等奖学金（5%）、武汉大学三好学生、武汉大学国家网络安全学院科创先进个人、武汉大学青年志愿者优秀个人奖、武汉大学优秀共青团员、
 
+# 🔥 News
+
 # 🧪 Research Experience
 
 ## **CLIP4Rec - 基于 CLIP 的通用推荐框架研究**
