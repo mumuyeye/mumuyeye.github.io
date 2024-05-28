@@ -152,28 +152,28 @@ redirect_from:
 
 # 🏆 Competition Awards
 
-- **中国大学生计算机设计大赛：已晋级/国赛ing** *国家级* 2024 <sub>&nbsp;&nbsp;[获奖证明](..\docs\2024jishe.pdf)</sub>
-- **“蓝桥杯”数字科技创新赛：已晋级/国赛ing** *国家级* 2024 <sub>&nbsp;&nbsp;[获奖证明](https://x-static.lanqiao.cn/upload/202405/courseimg/86b0fcef-64d9-4bc3-ac81-b5f776a44c00.pdf)</sub>
-- **全国大学生数学竞赛：二等奖** *国家级* 2023 <sub>&nbsp;&nbsp;[获奖证明](..\docs\shujingguoer.png)</sub>
-- **“华中杯”大学生数学建模挑战赛：特等奖 (2 out of 2030 teams)** *省部级* 2023 <sub>&nbsp;&nbsp;[获奖证明](http://www.hzbmmc.com/views/award/award-item.html?id=1663113745191030785&navigate=inform)</sub>
-- **中国大学生计算机设计大赛 (中南地区赛)：一等奖 (第一名)** *省部级* 2024 <sub>&nbsp;&nbsp;[获奖证明](..\docs\2024jishe.pdf)</sub>
-- **中国大学生计算机设计大赛 (中南地区赛)：一等奖** *省部级* 2024 <sub>&nbsp;&nbsp;[获奖证明](..\docs\2024jishe.pdf)</sub>
-- **中国大学生计算机设计大赛 (中南地区赛)：二等奖** *省部级* 2024 <sub>&nbsp;&nbsp;[获奖证明](..\docs\2024jishe.pdf)</sub>
-- **中国大学生计算机设计大赛 (中南地区赛)：三等奖** *省部级* 2024 <sub>&nbsp;&nbsp;[获奖证明](..\docs\2024jishe.pdf)</sub>
-- **中国大学生计算机设计大赛 (中南地区赛)：三等奖** *省部级* 2024 <sub>&nbsp;&nbsp;[获奖证明](..\docs\2024jishe.pdf)</sub>
-- **中国大学生计算机设计大赛 (中南地区赛)：三等奖** *省部级* 2023 <sub>&nbsp;&nbsp;[获奖证明](..\docs\2023jishe.pdf)</sub>
-- **“蓝桥杯”数字科技创新赛 (全国选拔赛)：一等奖** *省部级* 2024 <sub>&nbsp;&nbsp;[获奖证明](https://x-static.lanqiao.cn/upload/202405/courseimg/86b0fcef-64d9-4bc3-ac81-b5f776a44c00.pdf)</sub>
-- **“蓝桥杯”软件赛道 C++ 程序设计赛 (湖北赛区)：三等奖** *省部级* 2023 <sub>&nbsp;&nbsp;[获奖证明](..\docs\lanqiaoshengsanC.png)</sub>
-- **“蓝桥杯”软件赛道 Python 程序设计赛 (湖北赛区)：三等奖** *省部级* 2024 <sub>&nbsp;&nbsp;[获奖证明](..\docs\lanqiaoshengsanPy.png)</sub>
+- **中国大学生计算机设计大赛：已晋级/国赛ing** *国家级* 2024 &nbsp;&nbsp;[[获奖证明]](..\docs\2024jishe.pdf)
+- **“蓝桥杯”数字科技创新赛：已晋级/国赛ing** *国家级* 2024 &nbsp;&nbsp;[[获奖证明]](https://x-static.lanqiao.cn/upload/202405/courseimg/86b0fcef-64d9-4bc3-ac81-b5f776a44c00.pdf)
+- **全国大学生数学竞赛：二等奖** *国家级* 2023 &nbsp;&nbsp;[[获奖证明]](..\docs\shujingguoer.png)
+- **“华中杯”大学生数学建模挑战赛：特等奖 (2 out of 2030 teams)** *省部级* 2023 &nbsp;&nbsp;[[获奖证明]](http://www.hzbmmc.com/views/award/award-item.html?id=1663113745191030785&navigate=inform)
+- **中国大学生计算机设计大赛 (中南地区赛)：一等奖 (第一名)** *省部级* 2024 &nbsp;&nbsp;[[获奖证明]](..\docs\2024jishe.pdf)
+- **中国大学生计算机设计大赛 (中南地区赛)：一等奖** *省部级* 2024 &nbsp;&nbsp;[[获奖证明]](..\docs\2024jishe.pdf)
+- **中国大学生计算机设计大赛 (中南地区赛)：二等奖** *省部级* 2024 &nbsp;&nbsp;[[获奖证明]](..\docs\2024jishe.pdf)
+- **中国大学生计算机设计大赛 (中南地区赛)：三等奖** *省部级* 2024 &nbsp;&nbsp;[[获奖证明]](..\docs\2024jishe.pdf)
+- **中国大学生计算机设计大赛 (中南地区赛)：三等奖** *省部级* 2024 &nbsp;&nbsp;[[[获奖证明]]](..\docs\2024jishe.pdf)
+- **中国大学生计算机设计大赛 (中南地区赛)：三等奖** *省部级* 2023 &nbsp;&nbsp;[[获奖证明]](..\docs\2023jishe.pdf)
+- **“蓝桥杯”数字科技创新赛 (全国选拔赛)：一等奖** *省部级* 2024 &nbsp;&nbsp;[[获奖证明]](https://x-static.lanqiao.cn/upload/202405/courseimg/86b0fcef-64d9-4bc3-ac81-b5f776a44c00.pdf)
+- **“蓝桥杯”软件赛道 C++ 程序设计赛 (湖北赛区)：三等奖** *省部级* 2023 &nbsp;&nbsp;[[获奖证明]](..\docs\lanqiaoshengsanC.png)
+- **“蓝桥杯”软件赛道 Python 程序设计赛 (湖北赛区)：三等奖** *省部级* 2024 &nbsp;&nbsp;[[获奖证明]](..\docs\lanqiaoshengsanPy.png)
 
 # 🎖 Scholarships and Honors
 
-- *2023.10* **雷军计算机本科生奖学金** (获奖率： 20/1213=1.6%) *武汉大学&小米科技有限公司* <sub>>&nbsp;&nbsp;[[证明]](..\docs\Lei_Jun_Computer.pdf)</sub>
-- *2023.10* **武汉大学甲等奖学金** (获奖率： 全校5%) *武汉大学* <sub>>&nbsp;&nbsp;[[证明]](..\docs\2022-2023甲等奖学金.pdf)</sub>
-- *2023.10* **三好学生** (获奖率： 全校10%) *武汉大学* <sub>>&nbsp;&nbsp;[[证明]](..\docs\2022-2023三好学生.pdf)</sub>
-- *2023.9* **武汉大学青年志愿者优秀个人奖** *武汉大学* <sub>>&nbsp;&nbsp;[[证明]](..\docs\zhiyuanzheyouxiu.png)</sub>
-- *2024.1* **武汉大学国家网络安全学院科创先进个人** *武汉大学国家网络安全学院* <sub>>&nbsp;&nbsp;[[证明]](https://cse.whu.edu.cn/info/1100/22732.htm)</sub>
-- *2024.9* **武汉大学优秀共青团员** *武汉大学* <sub>>&nbsp;&nbsp;[[证明]](..\docs\2023优秀共青团员.pdf)</sub>
+- *2023.10* **雷军计算机本科生奖学金** (获奖率： 20/1213=1.6%) *武汉大学&小米科技有限公司* &nbsp;&nbsp;[[证明]](..\docs\Lei_Jun_Computer.pdf)
+- *2023.10* **武汉大学甲等奖学金** (获奖率： 全校5%) *武汉大学* &nbsp;&nbsp;[[证明]](..\docs\2022-2023甲等奖学金.pdf)
+- *2023.10* **三好学生** (获奖率： 全校10%) *武汉大学* &nbsp;&nbsp;[[证明]](..\docs\2022-2023三好学生.pdf)
+- *2023.9* **武汉大学青年志愿者优秀个人奖** *武汉大学* &nbsp;&nbsp;[[证明]](..\docs\zhiyuanzheyouxiu.png)
+- *2024.1* **武汉大学国家网络安全学院科创先进个人** *武汉大学国家网络安全学院* &nbsp;&nbsp;[[证明]](https://cse.whu.edu.cn/info/1100/22732.htm)
+- *2024.9* **武汉大学优秀共青团员** *武汉大学* &nbsp;&nbsp;[[证明]](..\docs\2023优秀共青团员.pdf)
 
 # 📖 Educations
 
