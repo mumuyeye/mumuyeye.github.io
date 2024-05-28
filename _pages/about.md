@@ -60,7 +60,8 @@ redirect_from:
 
   * 原本计划投稿于 **NeurIPS 2024**，但在投稿前夕和老师共同商议后，判断论文在多方面尚存在完善空间，遂放弃投稿，预计改进后投稿于 **AAAI 2024**
 
-## **AeroSentry - 高层建筑智能监测系统**
+## **AeroSentry - 高层建筑智能监测系统**<sub>[项目主页](https://mumuyeye.github.io/HaMonitorSentry/README.html) | [项目代码](https://github.com/mumuyeye/HaMonitorSentry)</sub>
+
 
 - **时间：** 2023.1 - 2024.5
 - **领域：** **Geo AI**，**计算机视觉** (团队)
