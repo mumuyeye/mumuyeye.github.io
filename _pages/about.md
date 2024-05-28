@@ -179,7 +179,7 @@ redirect_from:
 - **中国大学生计算机设计大赛 (中南地区赛)：一等奖** *省部级* 2024 &nbsp;&nbsp;[[证明]](..\docs\2024jishe.pdf)
 - **中国大学生计算机设计大赛 (中南地区赛)：二等奖** *省部级* 2024 &nbsp;&nbsp;[[证明]](..\docs\2024jishe.pdf)
 - **中国大学生计算机设计大赛 (中南地区赛)：三等奖** *省部级* 2024 &nbsp;&nbsp;[[证明]](..\docs\2024jishe.pdf)
-- **中国大学生计算机设计大赛 (中南地区赛)：三等奖** *省部级* 2024 &nbsp;&nbsp;[[[证明]]](..\docs\2024jishe.pdf)
+- **中国大学生计算机设计大赛 (中南地区赛)：三等奖** *省部级* 2024 &nbsp;&nbsp;[[证明]](..\docs\2024jishe.pdf)
 - **中国大学生计算机设计大赛 (中南地区赛)：三等奖** *省部级* 2023 &nbsp;&nbsp;[[证明]](..\docs\2023jishe.png)
 - **“蓝桥杯”数字科技创新赛 (全国选拔赛)：一等奖** *省部级* 2024 &nbsp;&nbsp;[[证明]](https://x-static.lanqiao.cn/upload/202405/courseimg/86b0fcef-64d9-4bc3-ac81-b5f776a44c00.pdf)
 - **“蓝桥杯”软件赛道 C++ 程序设计赛 (湖北赛区)：三等奖** *省部级* 2023 &nbsp;&nbsp;[[证明]](..\docs\lanqiaoshengsanC.png)
