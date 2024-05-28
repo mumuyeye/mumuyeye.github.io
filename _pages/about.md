@@ -111,7 +111,7 @@ redirect_from:
 
   * 相关工作已经完成，作为主力队员参加第17届中国大学生计算机设计大赛并获中南地区赛三等奖。
 
-## **话题-观点图谱（数据集构建和模型微调）** <sub> &nbsp;&nbsp;[[项目报告]](https://mumuyeye.github.io/docs/Comprehensive_Experiment_on_Public_Opinion_Analysis.pdf)</sub>
+## **话题-观点图谱(数据集构建和模型微调)** <sub> &nbsp;&nbsp;[[项目报告]](https://mumuyeye.github.io/docs/Comprehensive_Experiment_on_Public_Opinion_Analysis.pdf)</sub>
 
 - **时间：** 2023.9 - 2023.12
 - **领域：** **自然语言处理**，**舆情分析** (团队)
