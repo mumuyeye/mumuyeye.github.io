@@ -58,7 +58,7 @@ redirect_from:
 
 ## **💡💡HaMonitorSentry - 高层建筑智能监测系统** <sub> &nbsp;&nbsp;[[项目主页]](https://mumuyeye.github.io/HaMonitorSentry/README.html) | [[项目代码]](https://github.com/mumuyeye/HaMonitorSentry)</sub>
 - **时间：** 2023.1 - 2024.5
-- **领域：** **Geo AI**，**计算机视觉**
+- **领域：** **计算机视觉**，**Geo AI**
 - **形式：** 团队(负责人)
 - **针对痛点**：
   1. **高层建筑监测局限性**：当前的监测系统主要聚焦于高空抛物，应用范围有限且性能不理想。常见问题包括实时性不足以及较高的漏检和错检率。
@@ -74,7 +74,7 @@ redirect_from:
   * 基于此项目成功申请了1项国家发明专利（第一作者）和2项软件著作权。
   * 作为队长带队参加第17届中国大学生计算机设计大赛，并**以中南地区赛人工智能应用组第一名（1/314）的成绩进入全国总决赛**。
 
-## **💡💡FuzzLLM - 一种主动发现大型语言模型中越狱漏洞的新型通用模糊测试框架** <sub> &nbsp;&nbsp;[[项目主页]](https://possibly-profound-swine.ngrok-free.app/) | [[项目代码]](https://github.com/mumuyeye/FuzzLLM/tree/muye)</sub>
+## **💡💡FuzzLLM - 主动发现LLM中越狱漏洞的新型通用模糊测试框架** <sub> &nbsp;&nbsp;[[项目主页]](https://possibly-profound-swine.ngrok-free.app/) | [[项目代码]](https://github.com/mumuyeye/FuzzLLM/tree/muye)</sub>
 - **时间：** 2023.6 - 2023.11
 - **领域：** **大语言模型**，**人工智能安全**
 - - **形式：** 团队(主力成员)
@@ -173,7 +173,7 @@ redirect_from:
 
 - **中国大学生计算机设计大赛：已晋级/国赛ing** *国家级* 2024 &nbsp;&nbsp;[[证明]](..\docs\2024jishe.pdf)
 - **“蓝桥杯”数字科技创新赛：已晋级/国赛ing** *国家级* 2024 &nbsp;&nbsp;[[证明]](https://x-static.lanqiao.cn/upload/202405/courseimg/86b0fcef-64d9-4bc3-ac81-b5f776a44c00.pdf)
-- **全国大学生数学竞赛：二等奖** *国家级* 2023 &nbsp;&nbsp;[[获奖证明]](..\docs\shujingguoer.png)
+- **全国大学生数学竞赛：二等奖** *国家级* 2023 &nbsp;&nbsp;[[证明]](..\docs\shujingguoer.png)
 - **“华中杯”大学生数学建模挑战赛：特等奖 (2 out of 2030 teams)** *省部级* 2023 &nbsp;&nbsp;[[证明]](http://www.hzbmmc.com/views/award/award-item.html?id=1663113745191030785&navigate=inform)
 - **中国大学生计算机设计大赛 (中南地区赛)：一等奖 (第一名)** *省部级* 2024 &nbsp;&nbsp;[[证明]](..\docs\2024jishe.pdf)
 - **中国大学生计算机设计大赛 (中南地区赛)：一等奖** *省部级* 2024 &nbsp;&nbsp;[[证明]](..\docs\2024jishe.pdf)
