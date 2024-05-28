@@ -38,7 +38,6 @@ redirect_from:
 # 🧪 Research Experience
 
 ## **CLIP4Rec - 基于 CLIP 的通用推荐框架研究**
-
 - **时间：** 2023.9 - 2024.7
 - **领域：** **推荐系统**，**多模态** (个人)
 - **针对痛点**：
@@ -60,9 +59,7 @@ redirect_from:
 
   * 原本计划投稿于 **NeurIPS 2024**，但在投稿前夕和老师共同商议后，判断论文在多方面尚存在完善空间，遂放弃投稿，预计改进后投稿于 **AAAI 2024**
 
-## **AeroSentry - 高层建筑智能监测系统**<sub>[项目主页](https://mumuyeye.github.io/HaMonitorSentry/README.html) | [项目代码](https://github.com/mumuyeye/HaMonitorSentry)</sub>
-
-
+## **AeroSentry - 高层建筑智能监测系统** <sub> &nbsp;&nbsp;[[项目主页]](https://mumuyeye.github.io/HaMonitorSentry/README.html) | [[项目代码]](https://github.com/mumuyeye/HaMonitorSentry)</sub>
 - **时间：** 2023.1 - 2024.5
 - **领域：** **Geo AI**，**计算机视觉** (团队)
 - **针对痛点**：当前现有的高层建筑监测单一聚焦于高空抛物，应用范围小且性能不理想，通常面临实时性不足，漏检、错检比例高等问题。此外，由于目前关于复杂场景下运动目标检测与跟踪的算法技术尚不成熟，小目标快速检测仍存在一定难度，同时受天气因素影响较大，亟需对算法进行进一步的优化。
@@ -73,8 +70,7 @@ redirect_from:
   * 基于此项目成功申请了1项国家发明专利（第一作者）和2项软件著作权。
   * 作为队长带队参加第17届中国大学生计算机设计大赛，并**以中南地区赛人工智能应用组第一名（1/314）的成绩进入全国总决赛**。
 
-## **FuzzLLM - 一种主动发现大型语言模型中越狱漏洞的新型通用模糊测试框架**
-
+## **FuzzLLM - 一种主动发现大型语言模型中越狱漏洞的新型通用模糊测试框架** <sub> &nbsp;&nbsp;[[项目主页]](https://possibly-profound-swine.ngrok-free.app/) | [[项目代码]](https://github.com/mumuyeye/FuzzLLM/tree/muye)</sub>
 - **时间：** 2023.6 - 2023.11
 - **领域：** **大语言模型**，**人工智能安全** (团队)
 - **针对痛点**：
@@ -89,8 +85,7 @@ redirect_from:
   * 基于此项目成功申请了1项国家发明专利和1项软件著作权。
   * 作为主力队员参加第17届中国大学生计算机设计大赛并获中南地区赛一等奖。
 
-## **UnVC - 面向生成式伪造语音欺骗的鲁棒主动防御系统**
-
+## **UnVC - 面向生成式伪造语音欺骗的鲁棒主动防御系统** <sub> &nbsp;&nbsp;[[项目主页]](https://mumuyeye.github.io/UnVC/)</sub>
 - **时间：** 2024.1 - 2024.5
 - **领域：** **多媒体信息内容安全** (团队)
 - **针对痛点**：
@@ -103,8 +98,7 @@ redirect_from:
 
   * 相关工作已经完成，正在参加2024年全国大学生信息安全竞赛。
 
-## **DtFormer - 基于自训练范式的恶劣天气场景鲁棒语义分割**
-
+## **DtFormer - 基于自训练范式的恶劣天气场景鲁棒语义分割** <sub> &nbsp;&nbsp;[[项目主页]](https://mumuyeye.github.io/DtFormer/README.html) | [[项目代码]](https://github.com/mumuyeye/DtFormer)</sub>
 - **时间：** 2023.8 - 2024.1
 - **领域：** **计算机视觉**，**域适应** (团队)
 - **针对痛点**：
@@ -117,7 +111,7 @@ redirect_from:
 
   * 相关工作已经完成，作为主力队员参加第17届中国大学生计算机设计大赛并获中南地区赛三等奖。
 
-## **话题-观点图谱（数据集构建和模型微调）**
+## **话题-观点图谱（数据集构建和模型微调）** <sub> &nbsp;&nbsp;[[项目报告]](https://mumuyeye.github.io/docs/Comprehensive_Experiment_on_Public_Opinion_Analysis.pdf)</sub>
 
 - **时间：** 2023.9 - 2023.12
 - **领域：** **自然语言处理**，**舆情分析** (团队)
@@ -130,7 +124,7 @@ redirect_from:
 
 - **项目报告：**[[话题-观点图谱(数据集构建和模型微调)]](..\docs\Comprehensive_Experiment_on_Public_Opinion_Analysis.pdf)
 
-## **从“堆盒子”到动态规划**
+## **从“堆盒子”到动态规划** <sub> &nbsp;&nbsp;[[项目代码]](https://github.com/mumuyeye/From-Stacking-Boxes-to-Dynamic-Programming) | [[互动视频]](https://www.bilibili.com/video/BV1ojKvehEuq)</sub>
 
 - **时间：** 2022.1 - 2022.05
 - **领域：** **算法教学**，**算法可视化** (团队)
