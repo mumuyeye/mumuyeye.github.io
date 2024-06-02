@@ -72,7 +72,7 @@ redirect_from:
 * **项目成果**：
   * 该项目成功申请为省级大学生创新创业项目，并在期限内以优秀的成绩结项。
   * 基于此项目成功申请了1项国家发明专利（第一作者）和2项软件著作权。&nbsp;<span style="font-size: 16px;">
-    <a href="..\docs\sentryzhuanli.jpg">[专利]</a> &nbsp;|&nbsp; 
+    <a href="..\docs\程子洋_专利_实质审查.pdf">[专利]</a> &nbsp;|&nbsp; 
     <a href="..\docs\sentryruanzhu1.png">[软著1]</a> &nbsp;|&nbsp; 
     <a href="..\docs\sentryruanzhu2.png">[软著2]</a>
   </span>
