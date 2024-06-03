@@ -31,6 +31,7 @@ redirect_from:
 
 # 🔥 News
 
+- *2024.06*：  🎉🎉 我们的作品**AeroSentry**第十六届“蓝桥杯”数字科技创新赛全国决赛中获得**国家二等奖**的成绩！
 - *2024.05*：  🎉🎉 我们的作品**HaMonitorSentry**在2024年第17届中国大学生计算机设计大赛(中南地区赛)中以**人工智能应用组一等奖**兼**第一名**的成绩**晋级国赛**！
 - *2024.05*：  🎉🎉 我们的作品**FuzzLLM**在2024年第17届中国大学生计算机设计大赛(中南地区赛)获得**一等奖**！
 - *2024.05*：  🎉🎉 我们的作品**AeroSentry**在第十六届“蓝桥杯”数字科技创新赛(全国选拔赛)中获得**一等奖**并**晋级国赛**！
@@ -178,7 +179,7 @@ redirect_from:
 # 🏆 Competition Awards
 
 - **中国大学生计算机设计大赛：已晋级/国赛ing** *国家级* 2024 &nbsp;&nbsp;[[证明]](..\docs\2024jishe.pdf)
-- **“蓝桥杯”数字科技创新赛：已晋级/国赛ing** *国家级* 2024 &nbsp;&nbsp;[[证明]](https://x-static.lanqiao.cn/upload/202405/courseimg/86b0fcef-64d9-4bc3-ac81-b5f776a44c00.pdf)
+- **“蓝桥杯”数字科技创新赛：国家二等奖** *国家级* 2024 &nbsp;&nbsp;[[证明]](..\docs\lanqiaobeishuzichaungxin.pdf)
 - **全国大学生数学竞赛：二等奖** *国家级* 2023 &nbsp;&nbsp;[[证明]](..\docs\shujingguoer.png)
 - **“华中杯”大学生数学建模挑战赛：特等奖 (2 out of 2030 teams)** *省部级* 2023 &nbsp;&nbsp;[[证明]](http://www.hzbmmc.com/views/award/award-item.html?id=1663113745191030785&navigate=inform)
 - **中国大学生计算机设计大赛 (中南地区赛)：一等奖 (第一名)** *省部级* 2024 &nbsp;&nbsp;[[证明]](..\docs\2024jishe.pdf)
