@@ -73,7 +73,7 @@ redirect_from:
 * **项目成果**：
   * 该项目成功申请为省级大学生创新创业项目，并在期限内以优秀的成绩结项。
   * 基于此项目成功申请了1项国家发明专利（第一作者）和2项软件著作权。&nbsp;<span style="font-size: 16px;">
-    <a href="..\docs\sentryzhuanli.pdf">[专利]</a> &nbsp;|&nbsp; 
+    <a href="..\docs\sentryzhuanli.png">[专利]</a> &nbsp;|&nbsp; 
     <a href="..\docs\sentryruanzhu1.png">[软著1]</a> &nbsp;|&nbsp; 
     <a href="..\docs\sentryruanzhu2.png">[软著2]</a>
   </span>
@@ -94,7 +94,8 @@ redirect_from:
 * **项目成果**：
   * 已与复旦团队研发的统一越狱框架EasyJailbreak取得联系并加入其开源框架。
   * 基于此项目成功申请了1项国家发明专利和1项软件著作权。&nbsp;<span style="font-size: 16px;">
-    <a href="..\docs\fuzzllmzhuanli.pdf">[专利]</a> 
+    <a href="..\docs\fuzzllmzhuanli.pdf">[专利]</a> &nbsp;|&nbsp; 
+    <a href="..\docs\fuzzllmruanzhu.png">[软著]</a>
   </span>
   * 作为主力队员参加第17届中国大学生计算机设计大赛并获中南地区赛一等奖。
 
