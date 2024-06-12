@@ -145,7 +145,7 @@ redirect_from:
 * **项目成果**：
   * 作为主力队员参加第十五届“华中杯”数学建模挑战赛并获**特等奖(2 out of 2030 teams，武汉大学唯一)**
 
-## **💡话题-观点图谱(数据集构建和模型微调)** <sub> &nbsp;&nbsp;[[项目报告]](https://mumuyeye.github.io/docs/Comprehensive_Experiment_on_Public_Opinion_Analysis.pdf) | [[项目代码]](https://github.com/mumuyeye/Public-Opinion-Analysis)</sub>
+## **💡话题-观点图谱(数据集构建和模型微调)** <sub> &nbsp;&nbsp;[[项目报告]](..\docs\Comprehensive_Experiment_on_Public_Opinion_Analysis.pdf) | [[项目代码]](https://github.com/mumuyeye/Public-Opinion-Analysis)</sub>
 - **时间：** 2023.9 - 2023.12
 - **领域：** **自然语言处理**，**舆情分析**
 - **形式：** 团队(负责人)
@@ -156,7 +156,7 @@ redirect_from:
 * **项目成果**：
   * 被评为 Best Project(课程得分：93/100)（班级均分 81）。
 
-## **💡从《九章算术》到《九章算术注》 - 假如你是刘徽**<sub> &nbsp;&nbsp;[[项目代码]](https://github.com/mumuyeye/LiuHui-JiuzhangAnnotations/tree/main)</sub>
+## **💡从《九章算术》到《九章算术注》 - 假如你是刘徽**<sub> &nbsp;&nbsp;[[项目报告]](..\docs\From_Jiuzhang_to_JiuzhangZhu-As_LiuHui.pdf) | [[项目代码]](https://github.com/mumuyeye/LiuHui-JiuzhangAnnotations/tree/main) </sub>
 - **时间：** 2023.12 - 2024.2
 - **领域：** **游戏开发**
 - **形式：** 团队(主力成员)
