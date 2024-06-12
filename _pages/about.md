@@ -79,7 +79,7 @@ redirect_from:
   </span>
   * 作为队长带队参加第17届中国大学生计算机设计大赛，并**以中南地区赛人工智能应用组第一名（1/314）的成绩进入全国总决赛**。
 
-## **💡💡FuzzLLM - 主动发现LLM中越狱漏洞的新型通用模糊测试框架** <sub> &nbsp;&nbsp;[[项目主页]](https://possibly-profound-swine.ngrok-free.app/) | [[项目代码]](https://github.com/mumuyeye/FuzzLLM/tree/muye)</sub>
+## **💡💡FuzzLLM - 主动发现LLM中越狱漏洞的新型通用模糊测试框架** <sub> &nbsp;&nbsp;[[项目主页]](https://mumuyeye.github.io/FuzzLLM_demo/) | [[项目代码]](https://github.com/mumuyeye/FuzzLLM/tree/muye)</sub>
 - **时间：** 2023.6 - 2023.11
 - **领域：** **大语言模型**，**人工智能安全**
 - - **形式：** 团队(主力成员)
@@ -156,7 +156,7 @@ redirect_from:
 * **项目成果**：
   * 被评为 Best Project(课程得分：93/100)（班级均分 81）。
 
-## **💡从《九章算术》到《九章算术注》 - 假如你是刘徽**
+## **💡从《九章算术》到《九章算术注》 - 假如你是刘徽**<sub> &nbsp;&nbsp;[[项目代码]](https://github.com/mumuyeye/LiuHui-JiuzhangAnnotations/tree/main)</sub>
 - **时间：** 2023.12 - 2024.2
 - **领域：** **游戏开发**
 - **形式：** 团队(主力成员)
