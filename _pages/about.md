@@ -99,7 +99,7 @@ redirect_from:
   </span>
   * 作为主力队员参加第17届中国大学生计算机设计大赛并获中南地区赛一等奖。
 
-## **💡💡💡UnVoiceClone - 面向生成式伪造语音欺骗的鲁棒主动防御系统** <sub> &nbsp;&nbsp;[[项目主页]](https://mumuyeye.github.io/UnVC/) | [[项目报告]](..\docs\unvc_report.pdf)</sub>
+## **💡💡💡UnVoiceClone - 面向生成式伪造语音欺骗的鲁棒主动防御系统** <sub> &nbsp;&nbsp;[[项目主页]](https://mumuyeye.github.io/UnVC/) | [[项目作品书]](..\docs\unvc_report.pdf)</sub>
 - **时间：** 2024.1 - 2024.5
 - **领域：** **多媒体信息内容安全**
 - **形式：** 团队(主力成员)
