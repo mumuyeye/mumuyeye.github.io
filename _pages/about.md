@@ -77,13 +77,13 @@ redirect_from:
 
 * **项目成果**：
   * 该项目成功申请为省级大学生创新创业项目，并在期限内以优秀的成绩结项。
-  * 基于此项目成功申请了1项国家发明专利（第一作者）和2项软件著作权。&nbsp;`<span style="font-size: 16px;">`
-    `<a href="..\docs\sentryzhuanli.png">`[专利]`</a>` &nbsp;|&nbsp;
-    `<a href="..\docs\sentryruanzhu1.png">`[软著1]`</a>` &nbsp;|&nbsp;
-    `<a href="..\docs\sentryruanzhu2.png">`[软著2]`</a>`
+  * 基于此项目成功申请了1项国家发明专利（第一作者）和2项软件著作权。&nbsp;<span style="font-size: 16px;">
+    <a href="..\docs\sentryzhuanli.png">[专利]</a> &nbsp;|&nbsp;
+    <a href="..\docs\sentryruanzhu1.png">[软著1]</a> &nbsp;|&nbsp;
+    <a href="..\docs\sentryruanzhu2.png">[软著2]</a>
   * 作为队长带队参加第17届中国大学生计算机设计大赛，并**以中南地区赛人工智能应用组第一名（1/314）的成绩进入全国总决赛**。
 
-## **💡💡FuzzLLM - 主动发现LLM中越狱漏洞的新型通用模糊测试框架** `<sub>` &nbsp;&nbsp;[[项目主页]](https://mumuyeye.github.io/FuzzLLM_demo/) | [[项目代码]](https://github.com/mumuyeye/FuzzLLM/tree/muye)`</sub>`
+## **💡💡FuzzLLM - 主动发现LLM中越狱漏洞的新型通用模糊测试框架** <sub> &nbsp;&nbsp;[[项目主页]](https://mumuyeye.github.io/FuzzLLM_demo/) | [[项目代码]](https://github.com/mumuyeye/FuzzLLM/tree/muye)</sub>
 
 - **时间：** 2023.6 - 2023.11
 - **领域：** **大语言模型**，**人工智能安全**
@@ -99,12 +99,12 @@ redirect_from:
   3. **提高测试全面性**：这种方法不仅增加了测试的广度和深度，还帮助模型提供者提前识别和修复潜在的安全漏洞。
 * **项目成果**：
   * 已与复旦团队研发的统一越狱框架EasyJailbreak取得联系并加入其开源框架。
-  * 基于此项目成功申请了1项国家发明专利和1项软件著作权。&nbsp;`<span style="font-size: 16px;">`
-    `<a href="..\docs\fuzzllmzhuanli.png">`[专利]`</a>` &nbsp;|&nbsp;
-    `<a href="..\docs\fuzzllmruanzhu.png">`[软著]`</a>`
+  * 基于此项目成功申请了1项国家发明专利和1项软件著作权。&nbsp;<span style="font-size: 16px;">
+    <a href="..\docs\fuzzllmzhuanli.png">[专利]</a> &nbsp;|&nbsp;
+    <a href="..\docs\fuzzllmruanzhu.png">[软著]</a>
   * 作为主力队员参加第17届中国大学生计算机设计大赛并获中南地区赛一等奖。
 
-## **💡💡💡UnVoiceClone - 面向生成式伪造语音欺骗的鲁棒主动防御系统** `<sub>` &nbsp;&nbsp;[[项目主页]](https://maxshao2003.github.io/UnVC.github.io/) | [[项目报告]](..\docs\unvc_report.pdf)`</sub>`
+## **💡💡💡UnVoiceClone - 面向生成式伪造语音欺骗的鲁棒主动防御系统** <sub> &nbsp;&nbsp;[[项目主页]](https://maxshao2003.github.io/UnVC.github.io/) | [[项目报告]](..\docs\unvc_report.pdf)</sub>
 
 - **时间：** 2024.1 - 2024.5
 - **领域：** **多媒体信息内容安全**
@@ -121,7 +121,7 @@ redirect_from:
 * **项目成果**：
   * 相关工作已经完成，正在参加2024年全国大学生信息安全竞赛。
 
-## **💡DtFormer - 基于自训练范式的恶劣天气场景鲁棒语义分割** `<sub>` &nbsp;&nbsp;[[项目主页]](https://mumuyeye.github.io/DtFormer/README.html) | [[项目代码]](https://github.com/mumuyeye/DtFormer)`</sub>`
+## **💡DtFormer - 基于自训练范式的恶劣天气场景鲁棒语义分割** <sub> &nbsp;&nbsp;[[项目主页]](https://mumuyeye.github.io/DtFormer/README.html) | [[项目代码]](https://github.com/mumuyeye/DtFormer)</sub>
 
 - **时间：** 2023.8 - 2024.1
 - **领域：** **计算机视觉**，**域适应**
@@ -139,7 +139,7 @@ redirect_from:
   * 相关工作已经完成，论文正处于写作阶段，预计完稿后投稿于ICASSP 2024
   * 作为主力队员参加第17届中国大学生计算机设计大赛并获中南地区赛三等奖。
 
-## **💡小学数学应用题难度与相似性的量化评价研究** `<sub>` &nbsp;&nbsp;[[项目报告]](..\docs\huazhongbei.pdf)`</sub>`
+## **💡小学数学应用题难度与相似性的量化评价研究** <sub> &nbsp;&nbsp;[[项目报告]](..\docs\huazhongbei.pdf)</sub>
 
 - **时间：** 2023.4 - 2023.5
 - **角色：** **数据分析**、**数据挖掘**
@@ -156,7 +156,7 @@ redirect_from:
 * **项目成果**：
   * 作为主力队员参加第十五届“华中杯”数学建模挑战赛并获**特等奖(2 out of 2030 teams，武汉大学唯一)**
 
-## **💡话题-观点图谱(数据集构建和模型微调)** `<sub>` &nbsp;&nbsp;[[项目报告]](..\docs\Comprehensive_Experiment_on_Public_Opinion_Analysis.pdf) | [[项目代码]](https://github.com/mumuyeye/Public-Opinion-Analysis)`</sub>`
+## **💡话题-观点图谱(数据集构建和模型微调)** <sub> &nbsp;&nbsp;[[项目报告]](..\docs\Comprehensive_Experiment_on_Public_Opinion_Analysis.pdf) | [[项目代码]](https://github.com/mumuyeye/Public-Opinion-Analysis)</sub>
 
 - **时间：** 2023.9 - 2023.12
 - **领域：** **自然语言处理**，**舆情分析**
@@ -169,7 +169,7 @@ redirect_from:
 * **项目成果**：
   * 被评为 Best Project(课程得分：93/100)（班级均分 81）。
 
-## **💡从《九章算术》到《九章算术注》 - 假如你是刘徽**`<sub>` &nbsp;&nbsp;[[项目报告]](..\docs\From_Jiuzhang_to_JiuzhangZhu-As_LiuHui.pdf) | [[项目代码]](https://github.com/mumuyeye/LiuHui-JiuzhangAnnotations/tree/main) `</sub>`
+## **💡从《九章算术》到《九章算术注》 - 假如你是刘徽**<sub> &nbsp;&nbsp;[[项目报告]](..\docs\From_Jiuzhang_to_JiuzhangZhu-As_LiuHui.pdf) | [[项目代码]](https://github.com/mumuyeye/LiuHui-JiuzhangAnnotations/tree/main) </sub>
 
 - **时间：** 2023.12 - 2024.2
 - **领域：** **游戏开发**
@@ -182,7 +182,7 @@ redirect_from:
 * **项目成果**：
   * 作为主力队员参加第17届中国大学生计算机设计大赛并获中南地区赛二等奖。
 
-## **💡从“堆盒子”到动态规划** `<sub>` &nbsp;&nbsp;[[项目代码]](https://github.com/mumuyeye/From-Stacking-Boxes-to-Dynamic-Programming) | [[互动视频]](https://www.bilibili.com/video/BV1ojKvehEuq)`</sub>`
+## **💡从“堆盒子”到动态规划** <sub> &nbsp;&nbsp;[[项目代码]](https://github.com/mumuyeye/From-Stacking-Boxes-to-Dynamic-Programming) | [[互动视频]](https://www.bilibili.com/video/BV1ojKvehEuq)</sub>
 
 - **时间：** 2022.1 - 2022.05
 - **领域：** **算法教学**，**算法可视化**
