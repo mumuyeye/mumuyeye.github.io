@@ -58,7 +58,7 @@ redirect_from:
   5. **多模态融合**：我们通过集成CLIP多模态预训练模型，结合精心设计的描述文本对候选集进行重排序。
      **我们的方法不仅在迁移性和零样本能力方面展现优势，也标志了推荐系统研究新方向的开拓。**
 * **项目成果**：
-  * 原本计划投稿于 **NeurIPS 2024**，但在投稿前夕和老师共同商议后，判断论文在多方面尚存在完善空间，遂放弃投稿，预计改进后投稿于 **AAAI 2024**
+  * 原本计划投稿于 **NeurIPS 2024**，但在投稿前夕和老师共同商议后，判断论文在多方面尚存在完善空间，遂放弃投稿，预计改进后投稿于 **AAAI 2025**
 
 ## **💡💡HaMonitorSentry - 高层建筑智能监测系统** <sub> &nbsp;&nbsp;[[项目主页]](https://mumuyeye.github.io/HaMonitorSentry/README.html) | [[项目代码]](https://github.com/mumuyeye/HaMonitorSentry) </sub>
 
@@ -195,7 +195,7 @@ redirect_from:
 
 # 🏆 Competition Awards
 
-- **中国大学生计算机设计大赛：已晋级/国赛ing** *国家级* 2024 &nbsp;&nbsp;[[证明]](..\docs\2024jishe.pdf)
+- **中国大学生计算机设计大赛：晋级国赛** *国家级* 2024 &nbsp;&nbsp;[[证明]](..\docs\2024jishe.pdf)
 - **“蓝桥杯”数字科技创新赛（全国总决赛）：二等奖** *国家级* 2024 &nbsp;&nbsp;[[证明]](..\docs\lanqiaobeishuzichaungxin.pdf)
 - **全国大学生数学竞赛：二等奖** *国家级* 2023 &nbsp;&nbsp;[[证明]](..\docs\shujingguoer.png)
 - **“华中杯”大学生数学建模挑战赛：特等奖 (2 out of 2030 teams)** *国家级* 2023 &nbsp;&nbsp;[[证明]](http://www.hzbmmc.com/views/award/award-item.html?id=1663113745191030785&navigate=inform)
