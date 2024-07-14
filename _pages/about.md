@@ -15,7 +15,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-大家好！我是 **Cheng Ziyang**，目前是本科三年级，就读于 [武汉大学国家网络安全学院]([https://www.whu.edu.cn/](https://cse.whu.edu.cn/)) 网络空间安全专业。
+
+大家好！我是 **Cheng Ziyang**，目前是本科三年级，就读于[武汉大学国家网络安全学院](https://cse.whu.edu.cn/)网络空间安全专业。
 
 我对网络安全和人工智能充满热情，自入学以来，积极参与各类科研项目和学术竞赛，曾获得雷军计算机奖学金和多项校内外奖项。在科研方面，我参与并主导了多个项目，包括但不限于**推荐系统**、**多模态**、**Geo AI**、**人工智能安全**、**多媒体信息内容安全**等领域。
 
