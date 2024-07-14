@@ -217,7 +217,7 @@ redirect_from:
 - **“蓝桥杯”软件赛道 C++ 程序设计赛 (湖北赛区)：三等奖** *省部级* 2023 &nbsp;&nbsp;[[证明]](..\docs\lanqiaoshengsanC.png)
 - **“蓝桥杯”软件赛道 Python 程序设计赛 (湖北赛区)：三等奖** *省部级* 2024 &nbsp;&nbsp;[[证明]](..\docs\lanqiaoshengsanPy.jpg)
 
-# 🎖 Scholarships and Honors
+# 🥇 Scholarships and Honors
 
 - *2023.10* **雷军计算机本科生奖学金** (获奖率： 20/1213=1.6%) *武汉大学&小米科技有限公司* &nbsp;&nbsp;[[证明]](..\docs\23leijuncomputer.jpg)
 - *2023.10* **武汉大学甲等奖学金** (获奖率： 全校5%) *武汉大学* &nbsp;&nbsp;[[证明]](..\docs\23jiadeng.jpg)
